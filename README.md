@@ -2,6 +2,9 @@
 
 This repository contains files and data that underlie the publication "Risk of tipping the overturning circulation due to increasing rates of ice melt" by Johannes Lohmann and Peter D. Ditlevsen.
 
+[![DOI](https://zenodo.org/badge/290258330.svg)](https://zenodo.org/badge/latestdoi/290258330)
+
+
 The control simulations, as well as sensitivity with respect to salinity restoring time and wind forcing, have been analyzed using the files "climatology.py" and "control_40l.py".
 
 The Veros setup file used for the freshwater hysteresis simulations is "global_flexible_res_freshw_hyst.py".
